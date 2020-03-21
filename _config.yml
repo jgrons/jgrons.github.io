@@ -21,6 +21,7 @@ description: Health data science
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
+  Publications: "publications"
   Teaching:
   News: 
 
