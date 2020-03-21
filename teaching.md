@@ -16,7 +16,8 @@ A 3-week methods course for incoming doctoral students focusing on a maximum lik
 ### BST 222: Principles of Biostatistics II ###
 #### TA, Fall 2013, 2014, 2015, 2016 ####
 
-An introductory course on probability theory and mathematical statistics for masters students in 
+An introductory course on probability theory and mathematical statistics for masters students in  
+		biostatistics and doctoral students in other departments
     
 ### BST 203: Principles of Biostatistics II ###
 #### TA, Summer 2013 ####
