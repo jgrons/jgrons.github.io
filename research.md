@@ -10,6 +10,5 @@ passive and continuous data collection of health and behavior outside of traditi
 
 However, data heterogeneity, quality issues, and privacy concerns impose unique analytical challenges to the analysis of
 EHR and mobile health data. These challenges have motivated my statistical interests in two primary areas: 
-(i) predictive modeling with limited or no outcome information 
-(ii) meta-analysis in finite samples and under data sharing restrictions
+(i) predictive modeling with limited or no outcome information and (ii) meta-analysis in finite samples and under data sharing restrictions.
 
