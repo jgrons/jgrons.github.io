@@ -20,8 +20,7 @@ description: Health data science
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Research:
+  Research: "research"
   Teaching:
   News: 
 
