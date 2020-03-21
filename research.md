@@ -12,8 +12,9 @@ EHR and mobile health data. These challenges have motivated my statistical inter
 (i) predictive modeling with limited or no outcome information and (ii) meta-analysis in finite samples and 
 under data sharing restrictions.
 
+# Publications #
 
-##Statistical Methodology##
+## Statistical Methodology ##
 
 
 **Gronsbell J**, Liu M, Tian L, and Cai T. Efficient Estimation and Evaluation of Prediction Rules in Semi-Supervised Settings under Stratified Sampling. Under revision.
@@ -24,7 +25,7 @@ under data sharing restrictions.
 	
 **Gronsbell J**, and Cai T. (2018) Semi-Supervised Approaches to Efficient Evaluation of Model Prediction Performance. Journal of the Royal Statistical Society: Series B, 80(3), 579-594.
 
-##Medical Informatics##	
+## Medical Informatics ##	
 
 Liao KP, Sun J, Cai T, Link NB, Hong C, Huang J, Huffman J, **Gronsbell J**, Zhang Y, Ho Y-L, Casto VM, Gainer VS, Murphy SN, O'Donnell CJ, Gaziano JM, Cho K, Szolovits P, Kohane IS, Yu S, and Cai T. (2019) High-throughput  Multimodal  Automated  Phenotyping  (MAP) with  Application  to  PheWAS. Journal of the American Medical Informatics Association, 26(11), 1255-1262.
 
@@ -32,7 +33,7 @@ Yu S, Ma Y, **Gronsbell J**, Cai T, Ananthakrishnan AN, Gainer VS, Churchill SE,
 
 Geva A, **Gronsbell J**,  Cai T,  Cai T,  Murphy SN, Lyons JC, Heinz MM, Natter MD, Patibandla N, Bickel J, Mullen MP, and Mandl KD. (2017) A Computable Phenotype Improves Cohort Ascertainment in a Pediatric Pulmonary Hypertension Registry. The Journal of Pediatrics, 188(5), 224-231.	
 
-##Applications##
+## Applications ##
 
 Aghayev A, Giannopoulos A, **Gronsbell J**, George E, Cai T, Steigner ML, Mitsouras D, and Rybicki FJ. (2018) Common First-Pass CT Angiography Findings Associated with Rapid Growth Rate in Abdominal Aorta Aneurysms between 3 and 5 cm in Largest Diameter. American Journal of Roentgenology, 210(2), 431-437.
 
