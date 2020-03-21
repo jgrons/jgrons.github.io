@@ -1,8 +1,9 @@
 ---
 layout: page
 title: 
-subtitle:
 ---
+
+Accepted publications and articles invited for revision.
 
 ## Statistical Methodology ##
 
