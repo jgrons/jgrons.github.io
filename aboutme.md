@@ -10,6 +10,3 @@ I am particularly interested in using statistics and machine learning to solve p
 		
 When I'm not doing statistics, you'll likely find me running, cooking, or walking my energetic dog, Teddy. 
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
