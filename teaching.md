@@ -3,7 +3,8 @@ layout: page
 title: 
 ---
 
-
+I have always loved teaching and have had experiences as both a teaching assistant and instructor during my
+undergrad years at UC Berkeley and my graduate years at Harvard University.
 
 ## Harvard University ##
 
