@@ -21,7 +21,7 @@ description: Jesse Gronsbell | Health data science
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Publications: "publications"
+  #Publications: "publications"
   Teaching: "teaching"
   News: "news"
 
