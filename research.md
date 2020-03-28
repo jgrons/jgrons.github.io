@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 ---
 My research is centered on the development of statistical methods that leverage modern digital data sources,
 both clinical and non-clinical, to enhance our understanding of human health and improve healthcare. In the last 
