@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title:
 ---
 
 I have always enjoyed teaching and have had rich experiences as a teaching assistant and instructor during my undergrad and graduate years.
