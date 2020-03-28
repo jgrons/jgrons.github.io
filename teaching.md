@@ -25,4 +25,4 @@ A 3-week intensive summer course for the Harvard T.H. Chan School of Public Heal
 
 **PMB 98/198: Prepare to Achieve a College Education**   
 *Instructor: 2009-2012*    
-An outreach-based course to assist underrepresented high school students with their college applications via weekly outreaches and workshops as well as a one-on-one mentorship program pairing UC Berkeley undergrads with Bay Area high schoolers.
+An outreach-based course to assist underrepresented high school students with college applications via weekly outreaches and workshops as well as a one-on-one mentorship program pairing UC Berkeley undergrads with Bay Area high schoolers.
