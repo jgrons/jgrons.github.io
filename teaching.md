@@ -8,7 +8,7 @@ I have always loved teaching and have had rich experiences as a teaching assista
 ### Harvard University ###
 <img src="https://jgrons.github.io/img/me_teaching.jpg"
      style="float: right; margin-right: 10px;"
-     width="243" height="200" />
+     width="267" height="220" />
 **Biostatistics Prep Course: Methods & Computing**   
 *Instructor: Summer 2016*    
 A 3-week methods course for incoming doctoral students focusing on a maximum likelihood, regression, bootstrapping, and data analysis in the R statistical computing environment.
