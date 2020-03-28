@@ -4,7 +4,7 @@ title: News
 ---
 
 
-# Upcoming Talks and Workshops in 2020 #
+## Upcoming Talks and Workshops in 2020 ##
 
 April 15: Harvard Big Data Seminar
 
