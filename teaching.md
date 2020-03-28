@@ -9,8 +9,7 @@ I have always loved teaching and have had rich experiences as a teaching assista
 
 
 **Biostatistics Summer Prep Course: Methods & Computing**   
-*Instructor: Summer 2016*
-
+*Instructor: Summer 2016*    
 A 3-week methods course for incoming doctoral students focusing on a maximum likelihood, regression, bootstrapping, and data analysis in the R statistical computing environment.
 
 #### BST 222: Basics of Statistical Inference ####
