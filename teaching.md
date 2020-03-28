@@ -12,7 +12,7 @@ I have always loved teaching and have had rich experiences as a teaching assista
 ##### Instructor: Summer 2016 #####
 A 3-week methods course for incoming doctoral students focusing on a maximum likelihood, regression, bootstrapping, and data analysis in the R statistical computing environment.
 
-#### BST 222: Principles of Biostatistics II ####
+#### BST 222: Basics of Statistical Inference ####
 ##### Teaching Assistant: Fall 2013, 2014, 2015, 2016 #####
 An introductory course on probability theory and mathematical statistics for masters students in biostatistics and doctoral students in other departments
     
