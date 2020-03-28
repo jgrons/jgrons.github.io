@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-<span style="font-size:24pt;">Upcoming Talks and Workshops in 2020</span>
+<span style="font-size:18pt;"><b>Upcoming Talks and Workshops in 2020</b></span>
 
 April 15: Harvard Big Data Seminar
 
