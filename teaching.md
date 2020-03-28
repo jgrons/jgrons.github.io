@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Teaching
+title: 
 ---
 
-I have always loved teaching and have had rich experiences as a teaching assistant and instructor during my undergrad and graduate years.
+I have always enjoyed teaching and have had rich experiences as a teaching assistant and instructor during my undergrad and graduate years.
 
 ### Harvard University ###
 <img src="https://jgrons.github.io/img/me_teaching.jpg"
