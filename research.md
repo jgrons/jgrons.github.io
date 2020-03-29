@@ -37,6 +37,6 @@ Aghayev A, Giannopoulos A, **Gronsbell J**, George E, Cai T, Steigner ML, Mitsou
 
 Kumamaru H, Kumamaru K, Bateman BT, **Gronsbell J**, Cai T, Liu J, Higgins LD, Aoki S, Ohtomo K, Rybicki FJ, and Patorno E. (2016) Limited Hospital Variation in the Utilization and Yield of CT for Pulmonary Embolism in Patients Undergoing Total Hip or Knee Replacement Surgery. Radiology, 281(3), 826-834
 	
-I am currently working on Verily's Project Baseline [Mood Study](https://www.projectbaseline.com/mood/).
+I am currently working on Verily's Project Baseline [Mood Study](https://www.projectbaseline.com/study/mood2/).
 
 
