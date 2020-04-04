@@ -3,7 +3,7 @@ layout: page
 title:
 ---
 
-I have always enjoyed teaching and have had rich experiences as a teaching assistant and instructor during my undergrad and graduate years.
+<p></p>
 
 ### Harvard University ###
 <img src="https://jgrons.github.io/img/me_teaching.jpg"
