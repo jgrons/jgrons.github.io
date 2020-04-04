@@ -2,7 +2,7 @@
 layout: page
 title:
 ---
-<br> <br/>
+<p> </p>
 
 ## Publications ##
 
@@ -33,6 +33,6 @@ Kumamaru H, Kumamaru K, Bateman BT, **Gronsbell J**, Cai T, Liu J, Higgins LD, A
 
 ## Industry Experience ##
 
-I am currently working on Verily's Project Baseline [Mood Study](https://www.projectbaseline.com/study/mood2/).
+I work on Verily's Project Baseline [Mood Study](https://www.projectbaseline.com/study/mood2/).
 
 
