@@ -2,7 +2,7 @@
 layout: page
 title:
 ---
-I am interested in developing statistical and machine learning methods to understand the digital phenotype - the health information that is left behind in the digital data people create in their everyday lives.  My academic work centers on the analysis of routinely collected clinical data in the form of electronic health records. My work at Verily focuses on the use of passively collected data from a smartphone to understand mood and behavior.
+I develop statistical and machine learning methods to understand the digital phenotype - the health information that is left behind in the digital data people create in their everyday lives.  My academic work centers on the analysis of routinely collected clinical data in the form of electronic health records. My work at Verily focuses on the use of passively collected data from a smartphone to understand mood and behavior.
 
 ## Publications ##
 
