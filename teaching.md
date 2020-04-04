@@ -11,7 +11,7 @@ I have always enjoyed teaching and have had rich experiences as a teaching assis
      width="267" height="220" />
 **Biostatistics Prep Course: Methods & Computing**   
 *Instructor: Summer 2016*    
-A 3-week methods course for incoming doctoral students focusing on a maximum likelihood theory, regression, bootstrapping, and data analysis in the R statistical computing environment.
+A methods course for incoming biostatistics doctoral students focusing on a maximum likelihood theory, regression, bootstrapping, and data analysis in the R statistical computing environment.
 
 
 **BST 222: Basics of Statistical Inference**   
@@ -20,7 +20,7 @@ An introductory course on probability theory and mathematical statistics for mas
 
 **BST 203: Principles of Biostatistics II**   
 *Teaching Assistant: Summer 2013*    
-A 3-week intensive summer course for the Harvard T.H. Chan School of Public Health Summer Institute on basic statistical methods including hypothesis testing, contingency tables, regression, and analysis of survival data. 
+An intensive summer course for the Harvard T.H. Chan School of Public Health Summer Institute on basic statistical methods including hypothesis testing, contingency tables, regression, and analysis of survival data. 
 	
 ### UC Berkeley ###
 **PMB 98/198: Prepare to Achieve a College Education**   
