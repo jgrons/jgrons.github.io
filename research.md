@@ -2,14 +2,7 @@
 layout: page
 title:
 ---
-
-
-The widespread adoption of electronic health records (EHR) has generated massive amounts of routinely
-recorded medical data for use in translational research. More recently, the ubiquity of the smartphone has enabled
-passive and continuous data collection of health and behavior outside of traditional clinical settings.  However, data heterogeneity, quality issues, and privacy concerns impose unique analytical challenges to the analysis of
-EHR and mobile health data. These challenges have motivated my methodological interests in two primary areas: 
-(i) predictive modeling with limited or mismeasured outcome information and (ii) meta-analysis in finite samples and under data sharing restrictions.
-
+<br> <br/>
 
 ## Publications ##
 
