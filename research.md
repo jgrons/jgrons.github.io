@@ -2,7 +2,7 @@
 layout: page
 title:
 ---
-<p> </p>
+I am interested in developing statistical and machine learning methods to understand the digital phenotype - the health information that is left behind in the digital data people create in their everyday lives.  My academic work centers on the analysis of routinely collected clinical data in the form of electronic health records (EHR). My work at Verily focuses on the use of passively collected data from a smartphone to understand mood and behavior.
 
 ## Publications ##
 
@@ -31,7 +31,7 @@ Aghayev A, Giannopoulos A, **Gronsbell J**, George E, Cai T, Steigner ML, Mitsou
 Kumamaru H, Kumamaru K, Bateman BT, **Gronsbell J**, Cai T, Liu J, Higgins LD, Aoki S, Ohtomo K, Rybicki FJ, and Patorno E. (2016) Limited Hospital Variation in the Utilization and Yield of CT for Pulmonary Embolism in Patients Undergoing Total Hip or Knee Replacement Surgery. Radiology, 281(3), 826-834
 
 
-## Industry Experience ##
+## Industry Work ##
 
 I work on Verily's Project Baseline [Mood Study](https://www.projectbaseline.com/study/mood2/).
 
