@@ -2,6 +2,8 @@
 layout: page
 title:
 ---
+
+
 In the last decade, the widespread adoption of electronic health records (EHR) has generated massive amounts of routinely
 recorded medical data for use in translational research. More recently, the ubiquity of the smartphone has enabled
 passive and continuous data collection of health and behavior outside of traditional clinical settings.  However, data heterogeneity, quality issues, and privacy concerns impose unique analytical challenges to the analysis of
