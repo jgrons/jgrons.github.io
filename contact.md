@@ -3,7 +3,7 @@ layout: page
 title: 
 ---
 
-email: mailto](mailto: jgronsbell@google.com)
+email: [mailto](mailto: jgronsbell@google.com)
 
 I am always interested in collaborations.  Please reach out if you have an exciting problem to discuss! 
 
