@@ -2,7 +2,7 @@
 layout: page
 title:
 ---
-I develop statistical and machine learning methods to understand the digital phenotype - the health information that is left behind in the digital data people generate in their everyday lives.  My academic work centers on the analysis of routinely collected clinical data in the form of electronic health records. My work at Verily focuses on the use of passively collected data from a smartphone to understand mood and behavior.
+I develop statistical and machine learning methods to understand the digital phenotype - the health information that is left behind in the digital data we generate in our everyday lives.  My academic work centers on the analysis of routinely collected clinical data in the form of electronic health records. My work at [Verily](https://www.projectbaseline.com/study/mood2/) focuses on the use of passively collected data from a smartphone to understand mood and behavior.
 
 ## Publications ##
 
@@ -29,10 +29,4 @@ Geva A, **Gronsbell J**,  Cai T,  Cai T,  Murphy SN, Lyons JC, Heinz MM, Natter 
 Aghayev A, Giannopoulos A, **Gronsbell J**, George E, Cai T, Steigner ML, Mitsouras D, and Rybicki FJ. (2018) Common First-Pass CT Angiography Findings Associated with Rapid Growth Rate in Abdominal Aorta Aneurysms between 3 and 5 cm in Largest Diameter. American Journal of Roentgenology, 210(2), 431-437.
 
 Kumamaru H, Kumamaru K, Bateman BT, **Gronsbell J**, Cai T, Liu J, Higgins LD, Aoki S, Ohtomo K, Rybicki FJ, and Patorno E. (2016) Limited Hospital Variation in the Utilization and Yield of CT for Pulmonary Embolism in Patients Undergoing Total Hip or Knee Replacement Surgery. Radiology, 281(3), 826-834
-
-
-## Industry Work ##
-
-I work on Verily's Project Baseline [Mood Study](https://www.projectbaseline.com/study/mood2/).
-
 
