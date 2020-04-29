@@ -8,7 +8,7 @@ title:
 <p style="font-size:18pt;"><b>Upcoming Talks and Workshops in 2020</b></p> 
 
 * April 29: Harvard Biostatistics Career Development Series 
-  * Talk title: *The ins and outs of applying for faculty positions*
+  * Talk title: *What I learned applying for faculty positions*
 * May 6: Harvard Big Data [Seminar](https://twitter.com/HarvardBigData/status/1235246030414807040/photo/1) with Stefanie Nickels (Verily Life Sciences)
   * Talk title: *Clinical discovery research with digital data*
 * July 20-31: Harvard CELEHS [Machine Learning for Self-Driving Cars](https://www.hsph.harvard.edu/biostatistics/machine-learning-for-self-driving-cars/)
