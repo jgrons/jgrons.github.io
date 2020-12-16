@@ -8,7 +8,7 @@ I develop statistical and machine learning methods to understand the digital phe
 
 ### Statistical Methodology ###
 
-**Gronsbell J**, Liu M, Tian L, and Cai T. Efficient Estimation and Evaluation of Prediction Rules in Semi-Supervised Settings under Stratified Sampling. Under revision.
+**Gronsbell J**, Liu M, Tian L, and Cai T. Efficient Estimation and Evaluation of Prediction Rules in Semi-Supervised Settings under Stratified Sampling. arXiv:2010.09443.
 
 **Gronsbell J**, Hong C, Lie N, Lu Y, and Tian L. (2020) Exact Inference for the Random-Effect Model for Meta-Analyses with Rare Events. Statistics in Medicine, 39(3), 252-264.
 
@@ -25,6 +25,8 @@ Yu S, Ma Y, **Gronsbell J**, Cai T, Ananthakrishnan AN, Gainer VS, Churchill SE,
 Geva A, **Gronsbell J**,  Cai T,  Cai T,  Murphy SN, Lyons JC, Heinz MM, Natter MD, Patibandla N, Bickel J, Mullen MP, and Mandl KD. (2017) A Computable Phenotype Improves Cohort Ascertainment in a Pediatric Pulmonary Hypertension Registry. The Journal of Pediatrics, 188(5), 224-231.	
 
 ### Applications ###
+
+Poole SF, **Gronsbell J**, Winter D, Nickels S, Levy R, Fu B, Burq M, Saeb S, Edwards MD, Behr MK, Kumaresan V, Macalalad AR, Shah S, Prevost M, Snoad N, Brenner MP, Myers LJ, Varghese P, Califf RM, Washington V, Lee VS, and Fromer M.  A holistic approach for suppression of COVID-19 spread in workplaces and universities. medRxiv 2020.12.03.20243626. 
 
 Aghayev A, Giannopoulos A, **Gronsbell J**, George E, Cai T, Steigner ML, Mitsouras D, and Rybicki FJ. (2018) Common First-Pass CT Angiography Findings Associated with Rapid Growth Rate in Abdominal Aorta Aneurysms between 3 and 5 cm in Largest Diameter. American Journal of Roentgenology, 210(2), 431-437.
 
